@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ConnectFour {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {                //Adding change here..?
         Scanner scnr = new Scanner(System.in);
         int menuSelec = 0;
         while (menuSelec != 2) {
